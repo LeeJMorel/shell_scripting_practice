@@ -1,0 +1,7 @@
+#!/bin/bash
+# Allison Ann, CSE 392
+# My part2.sh script
+
+cd ~
+cd /
+cd ~

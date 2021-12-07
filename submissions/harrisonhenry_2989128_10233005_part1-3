@@ -1,0 +1,5 @@
+#!/bin/bash
+# Henry Harrison
+
+ls -la | wc -l
+echo "That was cool, dude!"
